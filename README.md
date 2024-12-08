@@ -13,4 +13,3 @@
 <p align="center"> I'll take your hand and we will leave, French exits for me and you.
 
 <p align="center"> ♡
-<p align=center> <img src=https://komarev.com/ghpvc/?username=KOI-NO-YOKAN%color=brightgreen&style=for-the-badge)
